@@ -20,7 +20,9 @@ minor inconveniences.
 ## Elsewhere
 
 [Realmglass](https://github.com/committed-sins/realmglass) lives here too —
-a self-hosted dashboard for Minecraft servers. Force pushing with love.
+a self-hosted dashboard for Minecraft servers.
+
+Force pushing with love.
 
 All plugins MIT licensed. Issues and corrections welcome. Apologies optional.
 
