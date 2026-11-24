@@ -7,32 +7,25 @@ minor inconveniences.
 
 ## Plugins
 
-| Plugin | What it does |
-|---|---|
-| [Trash Explorer Plus](https://github.com/committed-sins/obsidian-plugin-trash-explorer-plus) | Restore from trash with per-device retention and device attribution. |
-| [Bases Formats](https://github.com/committed-sins/obsidian-plugin-bases-formats) | Format amount columns without touching stored values. |
-| [Bases Excerpts](https://github.com/committed-sins/obsidian-plugin-bases-excerpts) | Heading excerpts as Bases values, with rendered Markdown and links. |
-| [Issue Bridge](https://github.com/committed-sins/obsidian-plugin-issue-bridge) | GitHub issues as native Markdown tasks. |
-| [Task Trace](https://github.com/committed-sins/obsidian-plugin-task-trace) | Task history via Obsidian Tasks-compatible IDs. |
-| [Revision Marks](https://github.com/committed-sins/obsidian-plugin-revision-marks) | Content-aware editing sessions and revision counts. *Planning stage.* |
-| [Selective Encrypt](https://github.com/committed-sins/obsidian-plugin-selective-encrypt) | Selective note encryption that keeps frontmatter and links. *Design stage.* |
+| Plugin | What it does | Status |
+|---|---|---|
+| [Bases Excerpts](https://github.com/committed-sins/obsidian-plugin-bases-excerpts) | Show heading excerpts in Obsidian Bases with rendered Markdown and working links. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-bases-excerpts/releases/latest) |
+| [Issue Bridge](https://github.com/committed-sins/obsidian-plugin-issue-bridge) | Work with GitHub issues as Markdown tasks. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-issue-bridge/releases/latest) |
+| [Revision Marks](https://github.com/committed-sins/obsidian-plugin-revision-marks) | Update note timestamps and optional revision counts after meaningful edits. | [Beta release](https://github.com/committed-sins/obsidian-plugin-revision-marks/releases/latest) |
+| [Track Record](https://github.com/committed-sins/obsidian-plugin-track-record) | Track time and note status changes as linked Markdown records. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-track-record/releases/latest) |
+| [Bases Formats](https://github.com/committed-sins/obsidian-plugin-bases-formats) | Display amount columns with two decimals, preserve stored precision and optionally wrap table text. | Development preview |
+| [Task Trace](https://github.com/committed-sins/obsidian-plugin-task-trace) | Follow task edits, rescheduling and moves using Obsidian Tasks-compatible IDs. | Development preview |
+| [Trash Explorer Plus](https://github.com/committed-sins/obsidian-plugin-trash-explorer-plus) | Explore and restore trashed files with per-device retention and device attribution. | Development preview |
+| [Continuum Sync](https://github.com/committed-sins/obsidian-plugin-continuum-sync) | In development for bidirectional vault sync with storage you control, starting with kDrive. | Test preview |
+| [Selective Encrypt](https://github.com/committed-sins/obsidian-plugin-selective-encrypt) | Designed to encrypt selected Markdown content while preserving frontmatter and links. | Design stage |
 
-## Elsewhere
+## Realmglass
 
-[Realmglass](https://github.com/committed-sins/realmglass) lives here too —
-a self-hosted dashboard for Minecraft servers.
+I'm building [Realmglass](https://github.com/committed-sins/realmglass) with
+and for my son. It's a self-hosted dashboard for Minecraft servers and a
+project close to my heart. The part I'm looking forward to most is seeing
+what we build together.
 
 Force pushing with love.
 
 All plugins MIT licensed. Issues and corrections welcome. Apologies optional.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
