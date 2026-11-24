@@ -11,7 +11,7 @@ minor inconveniences.
 |---|---|---|
 | [Bases Excerpts](https://github.com/committed-sins/obsidian-plugin-bases-excerpts) | Show heading excerpts in Obsidian Bases with rendered Markdown and working links. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-bases-excerpts/releases/latest) |
 | [Issue Bridge](https://github.com/committed-sins/obsidian-plugin-issue-bridge) | Work with GitHub issues as Markdown tasks. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-issue-bridge/releases/latest) |
-| [Revision Marks](https://github.com/committed-sins/obsidian-plugin-revision-marks) | Update note timestamps and optional revision counts after meaningful edits. | [Beta release](https://github.com/committed-sins/obsidian-plugin-revision-marks/releases/latest) |
+| [Revision Marks](https://github.com/committed-sins/obsidian-plugin-revision-marks) | Update note timestamps and optional revision counts after meaningful edits. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-revision-marks/releases/latest) |
 | [Track Record](https://github.com/committed-sins/obsidian-plugin-track-record) | Track time and note status changes as linked Markdown records. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-track-record/releases/latest) |
 | [Bases Formats](https://github.com/committed-sins/obsidian-plugin-bases-formats) | Display amount columns with two decimals, preserve stored precision and optionally wrap table text. | Development preview |
 | [Task Trace](https://github.com/committed-sins/obsidian-plugin-task-trace) | Follow task edits, rescheduling and moves using Obsidian Tasks-compatible IDs. | Development preview |
