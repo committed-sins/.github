@@ -9,14 +9,14 @@ minor inconveniences.
 
 | Plugin | What it does | Status |
 |---|---|---|
-| [Bases Excerpts](https://github.com/committed-sins/obsidian-plugin-bases-excerpts) | Show heading excerpts in Obsidian Bases with rendered Markdown and working links. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-bases-excerpts/releases/latest) |
 | [Issue Bridge](https://github.com/committed-sins/obsidian-plugin-issue-bridge) | Work with GitHub issues as Markdown tasks. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-issue-bridge/releases/latest) |
 | [Revision Marks](https://github.com/committed-sins/obsidian-plugin-revision-marks) | Update note timestamps and optional revision counts after meaningful edits. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-revision-marks/releases/latest) |
 | [Track Record](https://github.com/committed-sins/obsidian-plugin-track-record) | Track time and note status changes as linked Markdown records. | [GitHub release](https://github.com/committed-sins/obsidian-plugin-track-record/releases/latest) |
-| [Bases Formats](https://github.com/committed-sins/obsidian-plugin-bases-formats) | Display amount columns with two decimals, preserve stored precision and optionally wrap table text. | Development preview |
+| [Bases Excerpts](https://github.com/committed-sins/obsidian-plugin-bases-excerpts) | Show heading excerpts in Obsidian Bases with rendered Markdown and working links. | Test preview |
+| [Bases Formats](https://github.com/committed-sins/obsidian-plugin-bases-formats) | Display amount columns with two decimals, preserve stored precision and optionally wrap table text. | Test preview |
+| [Continuum Sync](https://github.com/committed-sins/obsidian-plugin-continuum-sync) | In development for bidirectional vault sync with storage you control, starting with kDrive. | Development preview |
 | [Task Trace](https://github.com/committed-sins/obsidian-plugin-task-trace) | Follow task edits, rescheduling and moves using Obsidian Tasks-compatible IDs. | Development preview |
-| [Trash Explorer Plus](https://github.com/committed-sins/obsidian-plugin-trash-explorer-plus) | Explore and restore trashed files with per-device retention and device attribution. | Development preview |
-| [Continuum Sync](https://github.com/committed-sins/obsidian-plugin-continuum-sync) | In development for bidirectional vault sync with storage you control, starting with kDrive. | Test preview |
+| [Trash Explorer Plus](https://github.com/committed-sins/obsidian-plugin-trash-explorer-plus) | Explore and restore trashed files with per-device retention and device attribution. | Design stage |
 | [Selective Encrypt](https://github.com/committed-sins/obsidian-plugin-selective-encrypt) | Designed to encrypt selected Markdown content while preserving frontmatter and links. | Design stage |
 
 ## Realmglass
