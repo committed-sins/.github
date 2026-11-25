@@ -7,9 +7,9 @@ if (!repositoryFile || !outputFile) {
 
 const topics = new Map([
   ["Obsidian Community plugins", "profile-obsidian"],
-  ["Minecraft", "profile-minecraft"],
+  ["Realmglass", "profile-minecraft"],
   ["Sites", "profile-sites"],
-  ["File tools", "profile-file-tools"],
+  ["Path Notes", "profile-file-tools"],
 ]);
 
 const profile = await readFile(new URL("../profile/README.md", import.meta.url), "utf8");
@@ -68,9 +68,10 @@ for (const name of names) {
   if (!description) throw new Error(`Add a GitHub description for ${name}.`);
 
   const status = current?.status ?? "In development";
-  if (category === "Obsidian Community plugins"
-    && !["Test preview", "Development preview", "In development", "Design stage", `[GitHub release](${repo.html_url}/releases/latest)`].includes(status)) {
-    throw new Error(`Set a plugin status for ${name} before moving it to ${category}.`);
+  if (category === "Obsidian Community plugins") {
+    const knownStatus = ["Test preview", "Development preview", "In development", "Design stage", `[GitHub release](${repo.html_url}/releases/latest)`].includes(status);
+    const directoryListing = /^\[Published\]\(https:\/\/obsidian\.md\/plugins\?id=[\w-]+\)$/.test(status);
+    if (!knownStatus && !directoryListing) throw new Error(`Set a plugin status for ${name} before moving it to ${category}.`);
   }
   tables.get(category).rows.push(`| [${label}](${repo.html_url}) | ${description} | ${status} |`);
 }
