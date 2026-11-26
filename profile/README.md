@@ -5,7 +5,7 @@ that started as minor inconveniences.
 
 ## Project areas
 
-The table below defines the project directory on [committedsins.dev](https://committedsins.dev/#projects). Each row creates an area for public repositories with the matching GitHub topic. The site checks for updates hourly, including new areas and releases.
+The table below defines the project directory on [committedsins.dev](https://committedsins.dev/#projects). A GitHub topic selects public repositories. Use `-` for a curated list. The site checks for updates hourly, including new areas and releases.
 
 Rows appear in table order. Choose a slug from the title when adding an area, then keep the slug when renaming it so existing links continue to work.
 
@@ -14,7 +14,7 @@ Rows appear in table order. Choose a slug from the title when adding an area, th
 | obsidian-plugin | Obsidian plugins | obsidian-plugins |
 | minecraft | Minecraft | realmglass |
 | website | Sites | elseif-codes |
-| file-annotations | File annotations | file-tools |
+| file-annotations | Useful tools | file-tools |
 
 <!--
 Project metadata for committedsins.dev. Keep the headings and table format so
