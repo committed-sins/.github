@@ -80,3 +80,9 @@ Tools for adding context to files and folders.
 | [Path Notes for Obsidian](https://github.com/committed-sins/obsidian-plugin-path-notes) | Optional Obsidian companion for Path Notes and external file and folder references. | In development |
 
 -->
+
+---
+
+Issues and corrections welcome. Apologies optional.
+
+Committed Sins - *Force pushing with love.*
