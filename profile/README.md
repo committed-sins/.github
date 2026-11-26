@@ -3,6 +3,19 @@
 Obsidian plugins, Minecraft projects, websites, and small tools. Mostly things
 that started as minor inconveniences.
 
+## Project areas
+
+The table below defines the project directory on [committedsins.dev](https://committedsins.dev/#projects). Each row creates an area for public repositories with the matching GitHub topic. The site checks for updates hourly, including new areas and releases.
+
+Rows appear in table order. Choose a slug from the title when adding an area, then keep the slug when renaming it so existing links continue to work.
+
+| Topic | Title | Slug |
+| --- | --- | --- |
+| obsidian-plugin | Obsidian plugins | obsidian-plugins |
+| web-framework | Web frameworks | realmglass |
+| website | Sites | elseif-codes |
+| file-tool | File tools | file-tools |
+
 ## Obsidian plugins
 
 Revision Marks, Track Record, Issue Bridge, and other tools that grew out of how I use Obsidian.
