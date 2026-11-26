@@ -41,6 +41,7 @@ Revision Marks, Track Record, Issue Bridge, and other tools that grew out of how
 | [Task Trace](https://github.com/committed-sins/obsidian-plugin-task-trace) | Follow task edits, rescheduling and moves using Obsidian Tasks-compatible IDs. | Development preview |
 | [Trash Explorer +](https://github.com/committed-sins/obsidian-plugin-trash-explorer-plus) | Explore and restore trashed files with per-device retention and device attribution. | Design stage |
 | [Selective Encrypt](https://github.com/committed-sins/obsidian-plugin-selective-encrypt) | Designed to encrypt selected Markdown content while preserving frontmatter and links. | Design stage |
+| [Path Notes for Obsidian](https://github.com/committed-sins/obsidian-plugin-path-notes) | Optional Obsidian companion for Path Notes and external file and folder references. | In development |
 
 ## Realmglass
 
