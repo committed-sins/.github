@@ -3,7 +3,7 @@
 Obsidian plugins, Minecraft projects, websites, and small tools. Mostly things
 that started as minor inconveniences.
 
-## Obsidian Community plugins
+## Obsidian plugins
 
 Revision Marks, Track Record, Issue Bridge, and other tools that grew out of how I use Obsidian.
 

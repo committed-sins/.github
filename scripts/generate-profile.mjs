@@ -5,8 +5,9 @@ if (!repositoryFile || !outputFile) {
   throw new Error("Usage: node scripts/generate-profile.mjs <repositories.json> <output.md>");
 }
 
+const obsidianSection = "Obsidian plugins";
 const topics = new Map([
-  ["Obsidian Community plugins", "profile-obsidian"],
+  [obsidianSection, "profile-obsidian"],
   ["Realmglass", "profile-minecraft"],
   ["Sites", "profile-sites"],
   ["Path Notes", "profile-file-tools"],
@@ -68,7 +69,7 @@ for (const name of names) {
   if (!description) throw new Error(`Add a GitHub description for ${name}.`);
 
   const status = current?.status ?? "In development";
-  if (category === "Obsidian Community plugins") {
+  if (category === obsidianSection) {
     const knownStatus = ["Test preview", "Development preview", "In development", "Design stage", `[GitHub release](${repo.html_url}/releases/latest)`].includes(status);
     const directoryListing = /^\[Published\]\(https:\/\/obsidian\.md\/plugins\?id=[\w-]+\)$/.test(status);
     if (!knownStatus && !directoryListing) throw new Error(`Set a plugin status for ${name} before moving it to ${category}.`);
