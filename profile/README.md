@@ -43,16 +43,9 @@ Revision Marks, Track Record, Issue Bridge, and other tools that grew out of how
 | [Selective Encrypt](https://github.com/committed-sins/obsidian-plugin-selective-encrypt) | Designed to encrypt selected Markdown content while preserving frontmatter and links. | Design stage |
 | [Path Notes for Obsidian](https://github.com/committed-sins/obsidian-plugin-path-notes) | Optional Obsidian companion for Path Notes and external file and folder references. | In development |
 
-## Realmglass
+## Minecraft
 
-A self-hosted dashboard for Minecraft Java and Bedrock servers.
-
-**Category:** Server tools
-
-I'm building [Realmglass](https://github.com/committed-sins/realmglass) with
-and for my son. It's a self-hosted dashboard for Minecraft servers and a
-project close to my heart. The part I'm looking forward to most is seeing
-what we build together.
+Projects and tools for Minecraft.
 
 | Project | What it does | Status |
 |---|---|---|
