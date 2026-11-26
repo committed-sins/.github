@@ -12,9 +12,9 @@ Rows appear in table order. Choose a slug from the title when adding an area, th
 | Topic | Title | Slug |
 | --- | --- | --- |
 | obsidian-plugin | Obsidian plugins | obsidian-plugins |
-| web-framework | Web frameworks | realmglass |
+| minecraft | Minecraft | realmglass |
 | website | Sites | elseif-codes |
-| file-tool | File tools | file-tools |
+| file-annotations | File annotations | file-tools |
 
 <!--
 Project metadata for committedsins.dev. Keep the headings and table format so
@@ -72,7 +72,7 @@ elseif.codes and committedsins.dev, two projects on the web.
 
 Tools for adding context to files and folders.
 
-**Category:** File tools
+**Category:** File annotations
 
 | Project | What it does | Status |
 |---|---|---|
