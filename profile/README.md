@@ -3,6 +3,10 @@
 Obsidian plugins, Minecraft projects, websites, and small tools. Mostly things
 that started as minor inconveniences.
 
+## About
+
+I started Committed Sins to give my (side) projects a home.
+
 ## Project areas
 
 The table below defines the project directory on [committedsins.dev](https://committedsins.dev/#projects). A GitHub topic selects public repositories. Use `-` for a curated list. The site checks for updates hourly, including new areas and releases.
@@ -12,9 +16,9 @@ Rows appear in table order. Choose a slug from the title when adding an area, th
 | Topic | Title | Slug |
 | --- | --- | --- |
 | obsidian-plugin | Obsidian plugins | obsidian-plugins |
-| minecraft | Minecraft | realmglass |
-| website | Sites | elseif-codes |
-| file-annotations | Useful tools | file-tools |
+| minecraft | Minecraft | minecraft |
+| website | Sites | sites |
+| file-annotations | Useful tools | useful-tools |
 
 <!--
 Project metadata for committedsins.dev. Keep the headings and table format so
